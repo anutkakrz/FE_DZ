@@ -1,0 +1,19 @@
+
+img {
+    width: 150px;
+}
+img, a {
+    display: block;
+    margin: auto;
+}
+h2,h5 {
+    text-align: center;
+
+}
+h2 {
+    color: hsl(59, 90%, 63%);
+}
+a {
+    display: block;
+    margin: auto;
+}
