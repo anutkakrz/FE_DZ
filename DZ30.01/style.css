@@ -1,0 +1,29 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.container {
+   position: relative;
+}
+.item {
+   width: 200px;
+   aspect-ratio: 1;
+   position: absolute;
+}
+.item1{
+   background: red;
+}
+.item2{
+   background: blue;
+   top: 100px;
+   left: 100px;
+}
+.item3{
+   background: green;
+   top: 50px;
+   left: 50px;
+   transition: 1.5s;
+}
+.item3:hover {
+   transform: scale(1.5) rotate(-45deg);
+}
