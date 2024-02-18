@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.user {
+   margin: 15px ;
+   padding: 10px;
+   width: 150px;
+   background-color: aqua;
+   border-radius: 20px;
+  
+}
