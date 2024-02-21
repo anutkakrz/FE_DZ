@@ -1,0 +1,52 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+/* /* } */
+
+/* .square {
+   width: 200px;
+   height: 200px;
+   background-color: #e22b2b;
+   margin: 10px;
+}
+button {
+   margin: 10px;
+} */ 
+/* 
+///////////////////////////////////////////////////// */
+/* 
+.pink {
+   width: 200px;
+   height: 200px;
+   background-color: hsl(309, 76%, 53%);
+   margin: 10px;
+}
+button {
+   margin: 10px;
+}
+
+//////////////////////////////////////////////////// */
+
+/* div {
+   width: 150px;
+   height: 150px;
+   border: 1px black solid ;
+   margin: 10px;
+}
+button {
+   margin: 10px;
+}
+////////////////////////////////////////////////// */
+/* p{
+   color: blue;
+}
+
+////////////////////////////////////////////////// */
+
+.blue{
+   color: blue;
+}
+.green{
+   color: green;
+}
